@@ -5,7 +5,7 @@
     xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd"
     version="2.4">
 
-    <display-name>03b_TecWeb</display-name>
+    <display-name>TW_Base</display-name>
     <description>
       A JSP-based to project to use as a template for your own ones
     </description>
@@ -14,11 +14,11 @@
 
     <servlet>
         <servlet-name>StillAServlet</servlet-name>
-        <servlet-class>it.unibo.tw.web.servlets.StillAServlet</servlet-class>
+        <servlet-class>servlets.StillAServlet</servlet-class>
         
         <init-param>
-        	<param-name>homeURL</param-name>
-        	<param-value>/pages/home.jsp</param-value>
+        	<param-name>  </param-name>
+        	<param-value>  </param-value>
         </init-param>
          
     </servlet>

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 
-<project name="03b_TecWeb" basedir=".." default="02.print.properties">
+<project name="TW_Base" basedir=".." default="02.print.properties">
 
 	<!-- ================ -->
 	<!-- Properties setup -->
